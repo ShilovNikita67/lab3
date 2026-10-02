@@ -37,6 +37,7 @@ public class Task01CollectionsMethods {
 
     // 1. Массив из N случайных чисел от 0 до 100.
 
+
     private Integer[] createRandomArray(int size) {
         Random random = new Random();
         Integer[] array = new Integer[size];
