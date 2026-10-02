@@ -24,6 +24,7 @@ public class Task03Sets {
         explainDifferences();                                          // 7
     }
 
+
     // 1. Список людей. Ivanov Ivan (20) добавлен дважды - это разные объекты с одинаковыми данными.
     // Фамилия Ivanov и Petrov встречаются несколько раз, возраст 25 и 30 - тоже.
     private List<Human> createHumans() {
